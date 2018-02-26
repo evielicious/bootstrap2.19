@@ -1,0 +1,46 @@
+.thumbnail {
+    padding:0;
+}
+
+.card-body {
+    width: 100% !important;
+    padding: 0 !important;
+
+}
+.paveikslelis{
+    width: 100% !important;
+    
+}
+.card-text{
+    padding: 3px 10px 0px 10px !important;
+    text-align: center !important;
+}
+
+h4{
+    text-align: center !important;
+    margin-top: 10px;
+}
+small{
+    text-align: center !important;
+}
+
+.downsyndrome{
+    width: 1110px !important;
+}
+
+.paveikslelis1 {
+    width: 100px !important;
+    height: 50px    !important;
+}
+
+img{
+    width: 100%;
+}
+
+.lol{
+    margin-bottom: 10px;
+}
+
+.card-header {
+    margin-top: 0px;
+}
